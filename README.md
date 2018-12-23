@@ -1,4 +1,4 @@
 # multi-armed-bandits
-a writing sample!
+a writing sample
 
-click [interactive UI](multiArmedBandits.pdf) to view
+click [here](multiArmedBandits.pdf) to view!
